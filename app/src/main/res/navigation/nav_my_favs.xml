@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_favorites_pokemons"
+    app:startDestination="@id/myFavsFragment">
+
+    <fragment
+        android:id="@+id/myFavsFragment"
+        android:name="com.example.pokemons.ui.view.MyFavsFragment"
+        android:label="MyFavsFragment" />
+</navigation>

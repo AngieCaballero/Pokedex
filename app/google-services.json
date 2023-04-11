@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384646979254",
+    "project_id": "pokemons-b003e",
+    "storage_bucket": "pokemons-b003e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384646979254:android:7fa63d861a01275fbc5017",
+        "android_client_info": {
+          "package_name": "com.example.pokemons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384646979254-rcr3q5er4n0t41nqi4q74liblroibbgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKhsEu0uqQqGXHWuFbRCGQSQ8YNP827-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384646979254-rcr3q5er4n0t41nqi4q74liblroibbgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
